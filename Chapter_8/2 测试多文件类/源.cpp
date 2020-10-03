@@ -4,7 +4,7 @@
 
 int main()
 {
-	Circle cr;
+	Point cr;
 	cr.input_r();
 	cr.cal_l();
 	cr.cal_s();

@@ -2,7 +2,7 @@
 #define __CIRCLE_H_
 
 
-class Circle
+class Point
 {
 public:
 	// ‰»Î∞Îæ∂

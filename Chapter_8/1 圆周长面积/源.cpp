@@ -4,7 +4,7 @@ const double PI = 3.1415926;
 
 using namespace std;
 
-class Circle
+class Point
 {
 public:
 	void input_r() {
@@ -29,7 +29,7 @@ private:
 
 int main()
 {
-	Circle cr;
+	Point cr;
 	cr.input_r();
 	cr.cal_l();
 	cr.cal_s();
